@@ -31,6 +31,8 @@
     <a href="https://github.com/VVVICTORZHOU/pymeili_resource/issues">Report Bug</a>
     ·
     <a href="https://github.com/VVVICTORZHOU/pymeili_resource/issues">Request Feature</a>
+    .
+    <a href="https://github.com/VVVICTORZHOU/pymeili_resource/wiki">Wiki</a>
   </p>
 </div>
 
@@ -80,7 +82,7 @@ Due to the font file and config file (source files as called) downloading requir
    git clone https://github.com/VVVICTORZHOU/pymeili_resource.git
    ```
 2. Manually download "source files" from github
-   - Go to [pymeili in Github](https://github.com/VVVICTORZHOU/pymeili_resource) directly, download the *whole* respository to your PC; moving the `pymeili_resource` folder into installed pymeili package folder.
+   - Go to [pymeili in Github](https://github.com/VVVICTORZHOU/pymeili_resource) directly, download the *whole* respository to your PC; unziping and moving the `pymeili_resource-main` folder into installed pymeili package folder. Finally, **Rename** the folder into `pymeili_resource` (get rid of '-main').
 - Note that the pymeili package usually located at `c:\users\Username\appdata\local\programs\python\python311\lib\site-packages\pymeili\`
 
 ### After Installation
@@ -91,7 +93,10 @@ from pymeili import beautifyplot as bp
 
 ## How to use?
 ### Basic instruction
-Learning basic idea about how pymeili work is good for beginners. Read [pymeili wiki](https://github.com/VVVICTORZHOU/pymeili_resource/wiki/Basic-Instruction) for further details.
+Learning basic concepts about how pymeili work is good for beginners. Read [pymeili wiki: Basic Instruction](https://github.com/VVVICTORZHOU/pymeili_resource/wiki/Basic-Instruction) for further guidances.
+
+### Functions Instruction
+Please visit [pymeili wiki](https://github.com/VVVICTORZHOU/pymeili_resource/wiki). There are still many pymeili's functions have not been composed into wiki, we will try to keep catch up and update frequently.
 
 ### Demonstration
 For further demo about using pymeili package, please check out following script link:
