@@ -96,10 +96,10 @@ from pymeili import beautifyplot as bp
 ### Demonstration
 For further demo about using pymeili package, please check out following script link:
 1. **Get start!** Plot the basic figure in pymeili: [Demo 1](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo1_BasicPlot.py)
-  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo1_BasicPloy.png' width='500' alt='pymeili_demo1_img'></div>
+  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo1_BasicPloy.png' width='300' alt='pymeili_demo1_img'></div>
 
 2. **Change theme!** Plot figure in dark mode: [Demo 2](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo2_BasicPlotDarkMode.py)
-  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo2_BasicPloyDarkMode.png' width='500' alt='pymeili_demo2_img'></div>
+  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo2_BasicPloyDarkMode.png' width='400' alt='pymeili_demo2_img'></div>
 
 3. **Give me donut!** Contour plot in pymeili: [Demo 3](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo3_ContourPlot.py)
   <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo3_ContourPlot.png' width='500' alt='pymeili_demo3_img'></div>
@@ -107,11 +107,18 @@ For further demo about using pymeili package, please check out following script 
 4. **World map!?** Using cartopy under pymeili: [Demo 4](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo4_Cartopy.py)
   <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo4_Cartopy.png' width='500' alt='pymeili_demo4_img'></div>
 
-5. **Need more plot at the same time?** Basic intro of subplot in pymeili: [Demo 5](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo5_BasicSubplot.py)
-  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo5_BasicSubplot.png' width='500' alt='pymeili_demo4_img'></div>
+5. **Need more plots at the same time?** Basic intro of subplot in pymeili: [Demo 5](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo5_BasicSubplot.py)
+  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo5_BasicSubplot.png' width='500' alt='pymeili_demo5_img'></div>
 
+6. **Many colorful world map!** Subplot with basemap in pymeili: [Demo 6](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo6_BasemapContourf.py)
+  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo6_Basemap.png' width='500' alt='pymeili_demo6_img'></div>
 
-  
+7. **Cartopy vs. Basemap!** Comparison between two ways to plot map: [Demo 7](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo7_BasemapVSCartopy.py)
+  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo7_BasemapVSCartopy.png' width='750' alt='pymeili_demo7_img'></div>
+
+8. **Image Processing!** Image Processing in pymeili: [Demo 8](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo8_ImshowPlot.py)
+  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo8_ImshowPlot.png' width='500' alt='pymeili_demo8_img'></div>
+
 ## How to getting help?
 For more usage questions, go to [pymeili in stackflow](https://stackoverflow.com/questions/tagged/pymeili) is recommended.
 
