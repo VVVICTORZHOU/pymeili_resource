@@ -91,7 +91,7 @@ from pymeili import beautifyplot as bp
 
 ## How to use?
 ### Basic instruction
-Learning basic idea about how pymeili work is good to beginner.
+Learning basic idea about how pymeili work is good for beginners. Read [pymeili wiki](https://github.com/VVVICTORZHOU/pymeili_resource/wiki/Basic-Instruction) for further details.
 
 ### Demonstration
 For further demo about using pymeili package, please check out following script link:
