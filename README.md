@@ -47,7 +47,7 @@ This package aims to simplify cumbersome and redundant personalized settings, pr
   - Basemap
 - High flexability for ***Mix and match*** functions between matplotlib and pymeili
 
-## How to get started?
+## How to getting started?
 ### Preparation
 Before starting install pymeili, please make sure you have installed the following python pacakges at first
 - matploblib
@@ -81,7 +81,7 @@ Due to the font file and config file (source files as called) downloading requir
    ```
 2. Manually download "source files" from github
    - Go to [pymeili in Github](https://github.com/VVVICTORZHOU/pymeili_resource) directly, download the *whole* respository to your PC; moving the `pymeili_resource` folder into installed pymeili package folder.
-- Note that the pymeili package usually installed at `c:\users\Username\appdata\local\programs\python\python311\lib\site-packages\pymeili\`
+- Note that the pymeili package usually located at `c:\users\Username\appdata\local\programs\python\python311\lib\site-packages\pymeili\`
 
 ### After Installation
 To make sure you have successfully install pymeili, import the module in your python script such as
@@ -89,6 +89,41 @@ To make sure you have successfully install pymeili, import the module in your py
 from pymeili import beautifyplot as bp
 ```
 
+## How to use?
+### Basic instruction
+
+
+### Demonstration
+For further demo about using pymeili package, please check out following script link:
+1. **Get start!** Plot the basic figure in pymeili: [Demo 1](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo1_BasicPlot.py)
+  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo1_BasicPloy.png' width='500' alt='pymeili_demo1_img'></div>
+
+2. **Change theme!** Plot figure in dark mode: [Demo 2](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo2_BasicPlotDarkMode.py)
+  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo2_BasicPloyDarkMode.png' width='500' alt='pymeili_demo2_img'></div>
+
+3. **Give me donut!** Contour plot in pymeili: [Demo 3](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo3_ContourPlot.py)
+  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo3_ContourPlot.png' width='500' alt='pymeili_demo3_img'></div>
+
+4. **World map!?** Using cartopy under pymeili: [Demo 4](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo4_Cartopy.py)
+  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo4_Cartopy.png' width='500' alt='pymeili_demo4_img'></div>
+
+5. **Need more plot at the same time?** Basic intro of subplot in pymeili: [Demo 5](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo5_BasicSubplot.py)
+  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo5_BasicSubplot.png' width='500' alt='pymeili_demo4_img'></div>
+
+
+  
+## How to getting help?
+For more usage questions, go to [pymeili in stackflow](https://stackoverflow.com/questions/tagged/pymeili) is recommended.
+
+## What Next?
+### Community Request
+We will be committed to continuously maintaining this package and optimizing and developing it based on reported bugs and requested features. All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome; you can report bugs for this project through the following ways, and you can also submit requests for wanted new features.
+- Access [Bugs Report & Features Request](https://github.com/VVVICTORZHOU/pymeili_resource/issues)
+
+### Development Roadmap
+We will issue the roadmap regularly to response the community requests, including bugs and wishlist.
+<img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/roadmap_v1.png' width='1200' alt='pymeili_roadmap_img'>
+For changelog information, please visit [pymeili in PyPI](https://pypi.org/project/pymeili/).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
