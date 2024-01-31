@@ -8,7 +8,8 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![Facebook][facebook-shield]][facebook-url]
+[![Weibo][Weibo-shield]][Weibo-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -141,16 +142,28 @@ For changelog information, please visit [pymeili in PyPI](https://pypi.org/proje
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/VVVICTORZHOU/pymeili_resource.svg?style=for-the-badge
 [contributors-url]: https://github.com/VVVICTORZHOU/pymeili_resource/graphs/contributors
+
 [forks-shield]: https://img.shields.io/github/forks/VVVICTORZHOU/pymeili_resource.svg?style=for-the-badge
 [forks-url]: https://github.com/VVVICTORZHOU/pymeili_resource/network/members
+
 [stars-shield]: https://img.shields.io/github/stars/VVVICTORZHOU/pymeili_resource.svg?style=for-the-badge
 [stars-url]: https://github.com/VVVICTORZHOU/pymeili_resource/stargazers
+
 [issues-shield]: https://img.shields.io/github/issues/VVVICTORZHOU/pymeili_resource.svg?style=for-the-badge
 [issues-url]: https://github.com/VVVICTORZHOU/pymeili_resource/issues
+
 [license-shield]: https://img.shields.io/github/license/VVVICTORZHOU/pymeili_resource.svg?style=for-the-badge
 [license-url]: https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/LICENSE
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/%E5%91%A8%E5%BD%A5%E5%BB%B7-z-v-829a232b1
+
+[facebook-shield]: https://img.shields.io/badge/FB-brightgreen?style=for-the-badge&logo=flat&logoColor=0866ff&label=Facebook&color=0866ff
+[facebook-url]: https://www.facebook.com/profile.php?id=100067467153966
+
+[Weibo-shield]: https://img.shields.io/badge/WB-brightgreen?style=for-the-badge&logo=flat&logoColor=d52c2b&label=WEIBO&color=d52c2b
+[Weibo-url]: https://weibo.com/u/7564787149?tabtype=feed
+
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
