@@ -26,7 +26,7 @@
     <a href="https://github.com/VVVICTORZHOU/pymeili_resource"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/VVVICTORZHOU/pymeili_resource">View Demo</a>
+    <a href="https://github.com/VVVICTORZHOU/pymeili_resource/tree/main?tab=readme-ov-file#demonstration">View Demo</a>
     ·
     <a href="https://github.com/VVVICTORZHOU/pymeili_resource/issues">Report Bug</a>
     ·
@@ -91,7 +91,7 @@ from pymeili import beautifyplot as bp
 
 ## How to use?
 ### Basic instruction
-
+Learning basic idea about how pymeili work is good to beginner.
 
 ### Demonstration
 For further demo about using pymeili package, please check out following script link:
@@ -120,7 +120,7 @@ For further demo about using pymeili package, please check out following script 
   <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo8_ImshowPlot.png' width='500' alt='pymeili_demo8_img'></div>
 
 ## How to getting help?
-For more usage questions, go to [pymeili in stackflow](https://stackoverflow.com/questions/tagged/pymeili) is recommended.
+For more usage questions, go to [pymeili in stackflow](https://stackoverflow.com/questions/tagged/pymeili) is recommended. By the way, you can also contact the developer, but we cannot promise to response you immidiately.
 
 ## What Next?
 ### Community Request
