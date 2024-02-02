@@ -86,6 +86,9 @@ Due to the font file and config file (source files as called) downloading requir
    - Go to [pymeili in Github](https://github.com/VVVICTORZHOU/pymeili_resource) directly, download the *whole* respository to your PC; unziping and moving the `pymeili_resource-main` folder into installed pymeili package folder. Finally, **Rename** the folder into `pymeili_resource` (get rid of '-main').
 - Note that the pymeili package usually located at `c:\users\Username\appdata\local\programs\python\python311\lib\site-packages\pymeili\`
 
+3. Manually download full package version from github
+   - Go to [pymeili releases in Github](https://github.com/VVVICTORZHOU/pymeili_resource/releases) directly, download the zipped folder (, whose filename includes "pymeili") in the assets of latest release. Move the unzipped folder into your root folder to import it hastily. Remind that this way is **strongly not recommended**.
+
 ### After Installation
 To make sure you have successfully install pymeili, import the module in your python script such as
 ```python
