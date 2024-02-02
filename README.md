@@ -125,6 +125,9 @@ For further demo about using pymeili package, please check out following script 
 8. **Image Processing!** Image Processing in pymeili: [Demo 8](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo8_ImshowPlot.py)
   <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo8_ImshowPlot.png' width='500' alt='pymeili_demo8_img'></div>
 
+9. **What a beautifyful rose!?** Plotting simple windrose in pymeili: [Demo 9](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo9_Windrose.py)
+  <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo9_Windrose.png' width='500' alt='pymeili_demo9_img'></div>
+
 ## How to getting help?
 For more usage questions, go to [pymeili in stackflow](https://stackoverflow.com/questions/tagged/pymeili) is recommended. By the way, you can also contact the developer, but we cannot promise to response you immidiately.
 
