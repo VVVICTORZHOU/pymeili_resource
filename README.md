@@ -59,7 +59,7 @@ Before starting install pymeili, please make sure you have installed the followi
 - pathlib / pathlib2
 - cartopy
 - basemap
-- -windrose
+- windrose
 To install packages, use the following command in your terminal
 ```sh
 pip install {pacakge_names}
@@ -99,7 +99,7 @@ from pymeili import beautifyplot as bp
 
 ## How to use?
 ### Basic instruction
-Learning basic concepts about how pymeili work is good for beginners. Read [pymeili wiki: Basic Instruction](https://github.com/VVVICTORZHOU/pymeili_resource/wiki/Basic-Instruction) for further guidances.
+Learning basic concepts about how pymeili works is good for beginners; for instance, how `initplot()` works and how to transfer different types of axes to pymeili axes. Read [pymeili wiki: Basic Instruction](https://github.com/VVVICTORZHOU/pymeili_resource/wiki/Basic-Instruction) for further guidances.
 
 ### Functions Instruction
 Please visit [pymeili wiki](https://github.com/VVVICTORZHOU/pymeili_resource/wiki). There are still many pymeili's functions have not been composed into wiki, we will try to keep catch up and update frequently.
