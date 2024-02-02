@@ -49,11 +49,11 @@ This package aims to simplify cumbersome and redundant personalized settings, pr
   - Cartopy
   - Basemap
   - Windrose
-- High flexability for ***Mix and match*** functions between matplotlib and pymeili
+- High flexibility for ***Mix and match*** functions between matplotlib and pymeili
 
-## How to getting started?
+## How to get started?
 ### Preparation
-Before starting install pymeili, please make sure you have installed the following python pacakges at first
+Before starting to install pymeili, please make sure you have installed the following Python packages at first
 - matploblib
 - numpy
 - pathlib / pathlib2
@@ -65,19 +65,19 @@ To install packages, use the following command in your terminal
 ```sh
 pip install {pacakge_names}
 ```
-Using `space` to seperate different packages' name.
+Using `space` to separate different packages' names.
 
 ### Installation
-Then, we can start to install pymeili package by using following command
+Then, we can start to install pymeili package by using the following command
 ```sh
 pip install pymeili
 ```
 Binary installers for the latest released version are available at the Python Package Index (PyPI), you can also visit the PyPI library: [pymeili in PyPI](https://pypi.org/project/pymeili/) to download the package file manually.
 
 ### Important
-Due to the font file and config file (source files as called) downloading requirement, you might encounter the errors raising if you have not deployed git environment yet. You have two choice to fix this problem
-1. Deploy `git` environment in your PC, and using following command in you terminal
-   - First, go to the location of installed pymeili at your PC
+Due to the font file and config file (source files as called) downloading requirement, you might encounter the errors if you have not deployed the git environment yet. You have three choices to fix this problem
+1. Deploy `git` environment in your PC, and using the following command in your terminal
+   - First, go to the location of installed pymeili on your PC
    ```sh
    cd C:/Username/path/to/your/pymeili/folder/
    ```
@@ -85,15 +85,15 @@ Due to the font file and config file (source files as called) downloading requir
    ```sh
    git clone https://github.com/VVVICTORZHOU/pymeili_resource.git
    ```
-2. Manually download "source files" from github
+2. Manually download "source files" from GitHub
    - Go to [pymeili in Github](https://github.com/VVVICTORZHOU/pymeili_resource) directly, download the *whole* respository to your PC; unziping and moving the `pymeili_resource-main` folder into installed pymeili package folder. Finally, **Rename** the folder into `pymeili_resource` (get rid of '-main').
-- Note that the pymeili package usually located at `c:\users\Username\appdata\local\programs\python\python311\lib\site-packages\pymeili\`
+- Note that the pymeili package is usually located at `c:\users\Username\appdata\local\programs\python\python311\lib\site-packages\pymeili\`
 
-3. Manually download full package version from github
-   - Go to [pymeili releases in Github](https://github.com/VVVICTORZHOU/pymeili_resource/releases) directly, download the zipped folder (, whose filename includes "pymeili") in the assets of latest release. Move the `pymeili` folder in the unzipped folder into your root folder to import it hastily. Remind that this way is **strongly not recommended**.
+3. Manually download the full package version from GitHub
+   - Go to [pymeili releases in Github](https://github.com/VVVICTORZHOU/pymeili_resource/releases) directly, and download the zipped folder (, whose filename includes "pymeili") in the assets of the latest release. Move the `pymeili` folder in the unzipped folder into your root folder to import it hastily. Remind that this way is **strongly not recommended**.
 
 ### After Installation
-To make sure you have successfully install pymeili, import the module in your python script such as
+To make sure you have successfully installed pymeili, import the module in your Python script such as
 ```python
 from pymeili import beautifyplot as bp
 ```
@@ -103,23 +103,23 @@ from pymeili import beautifyplot as bp
 Learning basic concepts about how pymeili works is good for beginners; for instance, how `initplot()` works and how to transfer different types of axes to pymeili axes. Read [pymeili wiki: Basic Instruction](https://github.com/VVVICTORZHOU/pymeili_resource/wiki/Basic-Instruction) for further guidances.
 
 ### Functions Instruction
-Please visit [pymeili wiki](https://github.com/VVVICTORZHOU/pymeili_resource/wiki). There are still many pymeili's functions have not been composed into wiki, we will try to keep catch up and update frequently.
+Please visit [pymeili wiki](https://github.com/VVVICTORZHOU/pymeili_resource/wiki). There are still many pymeili's functions that have not been composed into wiki, we will try to keep catch up and update frequently.
 
 ### Demonstration
-For further demo about using pymeili package, please check out following script link:
-1. **Get start!** Plot the basic figure in pymeili: [Demo 1](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo1_BasicPlot.py)
+For further demo about using the pymeili package, please check out the following script link:
+1. **Get started!** Plot the basic figure in pymeili: [Demo 1](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo1_BasicPlot.py)
   <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo1_BasicPloy.png' width='300' alt='pymeili_demo1_img'></div>
 
 2. **Change theme!** Plot figure in dark mode: [Demo 2](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo2_BasicPlotDarkMode.py)
   <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo2_BasicPloyDarkMode.png' width='400' alt='pymeili_demo2_img'></div>
 
-3. **Give me donut!** Contour plot in pymeili: [Demo 3](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo3_ContourPlot.py)
+3. **Give me a donut!** Contour plot in pymeili: [Demo 3](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo3_ContourPlot.py)
   <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo3_ContourPlot.png' width='400' alt='pymeili_demo3_img'></div>
 
 4. **World map!?** Using cartopy under pymeili: [Demo 4](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo4_Cartopy.py)
   <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo4_Cartopy.png' width='400' alt='pymeili_demo4_img'></div>
 
-5. **Need more plots at the same time?** Basic intro of subplot in pymeili: [Demo 5](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo5_BasicSubplot.py)
+5. **Need more plots at the same time?** Basic intro of the subplot in pymeili: [Demo 5](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo5_BasicSubplot.py)
   <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo5_BasicSubplot.png' width='500' alt='pymeili_demo5_img'></div>
 
 6. **Many colorful world map!** Subplot with basemap in pymeili: [Demo 6](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo6_BasemapContourf.py)
@@ -134,16 +134,16 @@ For further demo about using pymeili package, please check out following script 
 9. **What a beautiful rose!?** Plotting simple windrose in pymeili: [Demo 9](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo9_Windrose.py)
   <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo9_Windrose.png' width='400' alt='pymeili_demo9_img'></div>
 
-## How to getting help?
-For more usage questions, go to [pymeili in stackflow](https://stackoverflow.com/questions/tagged/pymeili) is recommended. By the way, you can also contact the developer, but we cannot promise to response you immidiately.
+## How to get help?
+For more usage questions, go to [pymeili in stackflow](https://stackoverflow.com/questions/tagged/pymeili) is recommended. By the way, you can also contact the developer, but we cannot promise to respond to you immediately.
 
-## What Next?
+## What's Next?
 ### Community Request
-We will be committed to continuously maintaining this package and optimizing and developing it based on reported bugs and requested features. All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome; you can report bugs for this project through the following ways, and you can also submit requests for wanted new features.
+We will be committed to continuously maintaining this package and optimizing and developing it based on reported bugs and requested features. All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome; you can report bugs for this project through the following ways, and you can also submit requests for new features.
 - Access [Bugs Report & Features Request](https://github.com/VVVICTORZHOU/pymeili_resource/issues)
 
 ### Development Roadmap
-We will issue the roadmap regularly to response the community requests, including bugs and wishlist.
+We will issue the roadmap regularly to respond to the community requests, including bugs and wishlists.
 <img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/roadmap_v1.png' width='1200' alt='pymeili_roadmap_img'>
 For changelog information, please visit [pymeili in PyPI](https://pypi.org/project/pymeili/).
 
