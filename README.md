@@ -48,6 +48,7 @@ This package aims to simplify cumbersome and redundant personalized settings, pr
   - matplotlib's Subplot
   - Cartopy
   - Basemap
+  - Windrose
 - High flexability for ***Mix and match*** functions between matplotlib and pymeili
 
 ## How to getting started?
@@ -58,6 +59,7 @@ Before starting install pymeili, please make sure you have installed the followi
 - pathlib / pathlib2
 - cartopy
 - basemap
+- -windrose
 To install packages, use the following command in your terminal
 ```sh
 pip install {pacakge_names}
