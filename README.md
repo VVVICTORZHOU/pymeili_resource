@@ -49,6 +49,7 @@ This package aims to simplify cumbersome and redundant personalized settings, pr
   - Cartopy
   - Basemap
   - Windrose
+  - rich
 - High flexibility for ***Mix and match*** functions between matplotlib and pymeili
 
 ## How to get started?
@@ -60,6 +61,7 @@ Before starting to install pymeili, please make sure you have installed the foll
 - cartopy
 - basemap
 - windrose
+- rich
 
 To install packages, use the following command in your terminal
 ```sh
