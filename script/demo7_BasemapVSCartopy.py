@@ -123,3 +123,6 @@ bp.savefig(img_path + 'demo7_BasemapVSCartopy.png')
 
 # Close the plot / 關閉圖表
 bp.close()
+
+# Show the record Table / 顯示圖表輸出列表
+bp.record()
