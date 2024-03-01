@@ -61,7 +61,6 @@ Before starting to install pymeili, please make sure you have installed the foll
 - cartopy
 - basemap
 - windrose
-- rich
 
 To install packages, use the following command in your terminal
 ```sh
