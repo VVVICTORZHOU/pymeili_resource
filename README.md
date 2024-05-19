@@ -135,6 +135,8 @@ For further demo about using the pymeili package, please check out the following
 9. **What a beautiful rose!?** Plotting simple windrose in pymeili: [Demo 9](https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/script/demo9_Windrose.py)
   <div align="center"><img src='https://github.com/VVVICTORZHOU/pymeili_resource/blob/main/img/demo/demo9_Windrose.png' width='400' alt='pymeili_demo9_img'></div>
 
+To configure the colormaps, please visit the [wiki for pymeili's cmaps](https://github.com/VVVICTORZHOU/pymeili_resource/wiki/COLORMAPS) for details.
+
 ## How to get help?
 For more usage questions, go to [pymeili in stackflow](https://stackoverflow.com/questions/tagged/pymeili) is recommended. By the way, you can also contact the developer, but we cannot promise to respond to you immediately.
 
