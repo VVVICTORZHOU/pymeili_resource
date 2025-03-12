@@ -46,3 +46,5 @@ light
 -----FontFamily(additional)-----
 HarmonyOS_Sans_TC_Regular.ttf
 OCR-A_Regular.ttf
+HarmonyOS_Sans_TC_Bold.ttf
+KleinCondensed-Medium.ttf
